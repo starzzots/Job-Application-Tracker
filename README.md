@@ -22,4 +22,4 @@ The Job Application Tracker is a desktop application designed to help users mana
 
    ```bash
    git clone https://github.com/starzzots/Job-Application-Tracker.git
-   cd Job-Application-Tracker
+   cd Job-Application-Tracker 
